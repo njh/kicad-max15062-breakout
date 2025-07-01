@@ -2284,7 +2284,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "1220c57d-2e97-464b-ade1-63ff1b5dc1d6")
@@ -2691,7 +2691,7 @@
 		(at 57.15 88.9 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "6e4d1d87-b514-4520-8acb-95fffbfa359c")
@@ -2711,7 +2711,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Phoenix_MSTB:PhoenixContact_MSTBVA_2,5_2-G_1x02_P5.00mm_Vertical"
+		(property "Footprint" "Connector_Phoenix_MC:PhoenixContact_MCV_1,5_2-G-3.5_1x02_P3.50mm_Vertical"
 			(at 57.15 88.9 0)
 			(effects
 				(font
@@ -2759,7 +2759,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "728b6198-c0d3-48cf-9e62-f9a88d4b5c12")
