@@ -2245,6 +2245,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2846801"
+			(at 133.35 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "4131bfff-72ae-406c-8703-de0c456744ef")
 		)
@@ -2331,6 +2340,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 182.88 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "3"
@@ -2471,6 +2488,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C14996"
+			(at 72.39 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2eff7116-a279-4f05-bccb-0248b1a48519")
 		)
@@ -2531,6 +2557,15 @@
 			)
 		)
 		(property "Description" "Inductor, small symbol"
+			(at 153.67 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C394127"
 			(at 153.67 78.74 0)
 			(effects
 				(font
@@ -2738,6 +2773,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 57.15 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "18d3a4aa-7cd1-4af6-96dc-8c6d839a53db")
 		)
@@ -2804,6 +2847,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 102.87 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -2934,6 +2985,15 @@
 			)
 		)
 		(property "Description" "600W unidirectional Transil Transient Voltage Suppressor, 68Vrwm, DO-214AA"
+			(at 77.47 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C133686"
 			(at 77.47 87.63 0)
 			(effects
 				(font
@@ -3079,6 +3139,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C15850"
+			(at 154.94 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c3b07812-e2cb-4483-a4d0-72a5a255f690")
 		)
@@ -3141,6 +3210,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 92.71 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C70463"
 			(at 92.71 86.36 0)
 			(effects
 				(font
@@ -3344,6 +3422,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 113.03 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C70463"
 			(at 113.03 93.98 0)
 			(effects
 				(font
